@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="INTEC.Data/Infraestructure/DataResult.cs">
+    <Files>
+      <File FileName="INTEC.Repository/ApplicationContext.cs" Line="10" Column="61" />
+      <File FileName="INTEC.Repository/Framework/Repository.cs" Line="43" Column="27" />
+      <File FileName="INTEC.Repository/Framework/IRepository.cs" Line="13" Column="6" />
+      <File FileName="INTEC.Data/Infraestructure/DataResult.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Desktop/SARC/SARC.UIX/Controllers/PhaseController.cs" line="183" offsetX="408" offsetY="2730" expression="data" liveUpdate="False" />
+    <Watch file="../../../../../Desktop/SARC/SARC.Service/Base/BaseService.cs" line="146" offsetX="473" offsetY="2175" expression="v" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

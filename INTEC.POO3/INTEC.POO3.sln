@@ -1,0 +1,44 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Domain Entity Layer", "1. Domain Entity Layer", "{EA7EA7D8-0697-47C9-A5E8-2D9A72E731C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Repository Layer", "2. Repository Layer", "{BE6ABE0D-2345-4BE2-A501-17061E6D5328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Service Layer", "3. Service Layer", "{9DEB3FC5-87EC-41DC-A12E-2BF9052E94BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Presentation Layer", "4. Presentation Layer", "{7676EEBA-4157-4417-B601-60DDEE27BB0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Unit Test Layer", "5. Unit Test Layer", "{A11639E0-00CD-43A0-B13E-E8B27FB3CF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTEC.Data", "INTEC.Data\INTEC.Data.csproj", "{02A5CC3F-BB62-44AB-A9E3-536110E89BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTEC.Models", "INTEC.Models\INTEC.Models.csproj", "{10F5861B-A9B5-4F76-AAFF-F11BA6504160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTEC.Repository", "INTEC.Repository\INTEC.Repository.csproj", "{C0F734A3-BD43-406F-AE66-41DBFA33F79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A5CC3F-BB62-44AB-A9E3-536110E89BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A5CC3F-BB62-44AB-A9E3-536110E89BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A5CC3F-BB62-44AB-A9E3-536110E89BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A5CC3F-BB62-44AB-A9E3-536110E89BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F5861B-A9B5-4F76-AAFF-F11BA6504160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F5861B-A9B5-4F76-AAFF-F11BA6504160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F5861B-A9B5-4F76-AAFF-F11BA6504160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F5861B-A9B5-4F76-AAFF-F11BA6504160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F734A3-BD43-406F-AE66-41DBFA33F79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F734A3-BD43-406F-AE66-41DBFA33F79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F734A3-BD43-406F-AE66-41DBFA33F79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F734A3-BD43-406F-AE66-41DBFA33F79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02A5CC3F-BB62-44AB-A9E3-536110E89BDA} = {EA7EA7D8-0697-47C9-A5E8-2D9A72E731C0}
+		{10F5861B-A9B5-4F76-AAFF-F11BA6504160} = {EA7EA7D8-0697-47C9-A5E8-2D9A72E731C0}
+		{C0F734A3-BD43-406F-AE66-41DBFA33F79B} = {BE6ABE0D-2345-4BE2-A501-17061E6D5328}
+	EndGlobalSection
+EndGlobal

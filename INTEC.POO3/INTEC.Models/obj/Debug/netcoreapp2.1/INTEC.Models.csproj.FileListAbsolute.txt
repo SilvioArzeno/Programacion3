@@ -1,0 +1,9 @@
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.deps.json
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.pdb
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.csprojAssemblyReference.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.csproj.CoreCompileInputs.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.AssemblyInfoInputs.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.AssemblyInfo.cs
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.pdb

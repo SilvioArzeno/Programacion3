@@ -1,0 +1,14 @@
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Repository.deps.json
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Repository.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Repository.pdb
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Data.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Models.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Data.pdb
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/bin/Debug/netcoreapp2.1/INTEC.Models.pdb
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.csprojAssemblyReference.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.csproj.CoreCompileInputs.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.AssemblyInfoInputs.cache
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.AssemblyInfo.cs
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.csproj.CopyComplete
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.dll
+/Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.pdb
