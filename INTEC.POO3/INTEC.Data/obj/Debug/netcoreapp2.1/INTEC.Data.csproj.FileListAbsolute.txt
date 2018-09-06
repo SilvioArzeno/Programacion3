@@ -7,3 +7,12 @@
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Data/obj/Debug/netcoreapp2.1/INTEC.Data.AssemblyInfo.cs
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Data/obj/Debug/netcoreapp2.1/INTEC.Data.dll
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Data/obj/Debug/netcoreapp2.1/INTEC.Data.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\bin\Debug\netcoreapp2.1\INTEC.Data.deps.json
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\bin\Debug\netcoreapp2.1\INTEC.Data.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\bin\Debug\netcoreapp2.1\INTEC.Data.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.csprojAssemblyReference.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.AssemblyInfoInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.AssemblyInfo.cs
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Data\obj\Debug\netcoreapp2.1\INTEC.Data.pdb

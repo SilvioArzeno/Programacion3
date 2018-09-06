@@ -13,6 +13,6 @@ namespace INTEC.Repository.Framework
         DataResult Update(T entity);
         DataResult Delete(T entity);
 
-        DataResult SaveChanges();
+        Boolean SaveChanges();
     }
 }

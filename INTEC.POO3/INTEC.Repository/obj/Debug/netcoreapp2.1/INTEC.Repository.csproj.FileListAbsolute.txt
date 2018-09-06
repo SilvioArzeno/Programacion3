@@ -12,3 +12,17 @@
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.csproj.CopyComplete
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.dll
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Repository/obj/Debug/netcoreapp2.1/INTEC.Repository.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Repository.deps.json
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Repository.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Repository.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Data.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Models.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Data.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\bin\Debug\netcoreapp2.1\INTEC.Models.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.csprojAssemblyReference.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.AssemblyInfoInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.AssemblyInfo.cs
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.csproj.CopyComplete
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Repository\obj\Debug\netcoreapp2.1\INTEC.Repository.pdb
