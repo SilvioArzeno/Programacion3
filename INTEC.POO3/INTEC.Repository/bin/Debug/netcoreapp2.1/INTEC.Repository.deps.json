@@ -371,19 +371,11 @@
         }
       },
       "INTEC.Data/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.2",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.2"
-        },
         "runtime": {
           "INTEC.Data.dll": {}
         }
       },
       "INTEC.Models/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.2",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.2"
-        },
         "runtime": {
           "INTEC.Models.dll": {}
         }

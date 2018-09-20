@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="INTEC.Data/Infraestructure/DataResult.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="INTEC.Service/Base/BaseService.cs">
     <Files>
-      <File FileName="INTEC.Repository/ApplicationContext.cs" Line="10" Column="61" />
-      <File FileName="INTEC.Repository/Framework/Repository.cs" Line="43" Column="27" />
-      <File FileName="INTEC.Repository/Framework/IRepository.cs" Line="13" Column="6" />
-      <File FileName="INTEC.Data/Infraestructure/DataResult.cs" Line="18" Column="1" />
+      <File FileName="INTEC.Service/Base/IBaseService.cs" Line="6" Column="18" />
+      <File FileName="INTEC.Service/Base/BaseService.cs" Line="70" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -16,4 +14,5 @@
     <Watch file="../../../../../Desktop/SARC/SARC.Service/Base/BaseService.cs" line="146" offsetX="473" offsetY="2175" expression="v" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3._220Service_220Layer.INTEC.Service FirstBuild="True" />
 </Properties>

@@ -7,12 +7,12 @@
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.AssemblyInfo.cs
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.dll
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.pdb
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\bin\Debug\netcoreapp2.1\INTEC.Models.deps.json
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\bin\Debug\netcoreapp2.1\INTEC.Models.dll
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\bin\Debug\netcoreapp2.1\INTEC.Models.pdb
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.csprojAssemblyReference.cache
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.csproj.CoreCompileInputs.cache
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.AssemblyInfoInputs.cache
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.AssemblyInfo.cs
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.dll
-C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Models\obj\Debug\netcoreapp2.1\INTEC.Models.pdb
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.deps.json
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.dll
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/bin/Debug/netcoreapp2.1/INTEC.Models.pdb
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.csprojAssemblyReference.cache
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.csproj.CoreCompileInputs.cache
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.AssemblyInfoInputs.cache
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.AssemblyInfo.cs
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.dll
+/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Models/obj/Debug/netcoreapp2.1/INTEC.Models.pdb

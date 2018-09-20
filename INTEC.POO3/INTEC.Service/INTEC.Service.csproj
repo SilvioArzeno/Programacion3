@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Base\" />
+    <Folder Include="Implementations\" />
+    <Folder Include="Infraestructure\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\INTEC.Models\INTEC.Models.csproj" />
+    <ProjectReference Include="..\INTEC.Data\INTEC.Data.csproj" />
+    <ProjectReference Include="..\INTEC.Repository\INTEC.Repository.csproj" />
+    <ProjectReference Include="..\INTEC.Helpers\INTEC.Helpers.csproj" />
+  </ItemGroup>
+</Project>
