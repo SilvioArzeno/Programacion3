@@ -1,0 +1,15 @@
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Service.deps.json
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Service.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Data.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Helpers.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Models.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Repository.dll
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Models.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Data.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Repository.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\bin\Debug\netcoreapp2.1\INTEC.Helpers.pdb
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\obj\Debug\netcoreapp2.1\INTEC.Service.csprojAssemblyReference.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\obj\Debug\netcoreapp2.1\INTEC.Service.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\obj\Debug\netcoreapp2.1\INTEC.Service.AssemblyInfoInputs.cache
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\obj\Debug\netcoreapp2.1\INTEC.Service.AssemblyInfo.cs
+C:\Users\Silvio Arzeno\Desktop\Projects\INTEC.POO3\INTEC.POO3\INTEC.Service\obj\Debug\netcoreapp2.1\INTEC.Service.csproj.CopyComplete

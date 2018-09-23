@@ -12,17 +12,7 @@
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Data.pdb
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Models.pdb
 /Users/omarfrometa/Public/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.csproj.CopyComplete
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Helpers.deps.json
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Helpers.dll
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Helpers.pdb
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Data.dll
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Models.dll
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Data.pdb
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/bin/Debug/netcoreapp2.1/INTEC.Models.pdb
 /Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.csprojAssemblyReference.cache
 /Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.csproj.CoreCompileInputs.cache
 /Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.AssemblyInfoInputs.cache
 /Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.AssemblyInfo.cs
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.csproj.CopyComplete
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.dll
-/Users/omarfrometa/Projects/INTEC.POO3/INTEC.Helpers/obj/Debug/netcoreapp2.1/INTEC.Helpers.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj",
       "projectName": "INTEC.Models",
-      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj",
+      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj",
       "packagesPath": "C:\\Users\\Silvio Arzeno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\obj\\",
+      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

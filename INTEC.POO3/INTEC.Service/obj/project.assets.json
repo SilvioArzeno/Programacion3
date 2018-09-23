@@ -3105,11 +3105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\INTEC.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\INTEC.Service.csproj",
       "projectName": "INTEC.Service",
-      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\INTEC.Service.csproj",
+      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\INTEC.Service.csproj",
       "packagesPath": "C:\\Users\\Silvio Arzeno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\obj\\",
+      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3128,17 +3128,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj": {
-              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj"
+            "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj": {
+              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj"
             },
-            "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Helpers\\INTEC.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Helpers\\INTEC.Helpers.csproj"
+            "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Helpers\\INTEC.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Helpers\\INTEC.Helpers.csproj"
             },
-            "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj": {
-              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj"
+            "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj": {
+              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Models\\INTEC.Models.csproj"
             },
-            "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Repository\\INTEC.Repository.csproj": {
-              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Repository\\INTEC.Repository.csproj"
+            "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Repository\\INTEC.Repository.csproj": {
+              "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Repository\\INTEC.Repository.csproj"
             }
           }
         }

@@ -9,7 +9,6 @@ namespace INTEC.Service.Base
         ServiceResult Update(T viewModel);
         ServiceResult Delete(T viewModel);
         ServiceResult GetAll();
-        ServiceResult GetAll(T viewModel);
         ServiceResult GetById(int id);
         ServiceResult GetByRowId(string rowId);
     }

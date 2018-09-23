@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj",
       "projectName": "INTEC.Data",
-      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj",
+      "projectPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\INTEC.Data.csproj",
       "packagesPath": "C:\\Users\\Silvio Arzeno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\obj\\",
+      "outputPath": "C:\\Users\\Silvio Arzeno\\Desktop\\Projects\\INTEC.POO3\\INTEC.POO3\\INTEC.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -58,28 +58,18 @@ namespace INTEC.Service.Base
             return serviceResult;
         }
 
-        public ServiceResult GetAll(Vm viewModel)
-        {
-            throw new NotImplementedException();
-        }
-
         public ServiceResult GetById(int id)
         {
             ServiceResult serviceResult = new ServiceResult();
-            var Search = ((List<Ent>)(this.Repository.GetAll(i => i.Id == id).Data)).FirstOrDefault();
 
-            if (Search == null)
-            {
-                serviceResult.Success = false;
-                serviceResult.ResultTitle = "ERROR: Record No Found";
-                serviceResult.Messages.Add(Error.GetErrorMessage(Error.RecordNotFound));
+            var result = ((List<Ent>)this.Repository.
+                          GetAll(x => x.Id == id).Data)
+                .FirstOrDefault();
 
-                return serviceResult;
-            }
             serviceResult.Success = true;
             serviceResult.ResultTitle = Error.GetErrorMessage(Error.CorrectTransaction);
-            serviceResult.ResultObject = MapperHelper.Instance.Map<Ent, Vm>(Search);
             serviceResult.Messages.Add(Error.GetErrorMessage(Error.CorrectTransaction));
+            serviceResult.ResultObject = MapperHelper.Instance.Map<Ent, Vm>(result);
 
             return serviceResult;
         }
@@ -87,20 +77,15 @@ namespace INTEC.Service.Base
         public ServiceResult GetByRowId(string rowId)
         {
             ServiceResult serviceResult = new ServiceResult();
-            var Search = ((List<Ent>)(this.Repository.GetAll(i => i.RowId == rowId).Data)).FirstOrDefault();
 
-            if (Search == null)
-            {
-                serviceResult.Success = false;
-                serviceResult.ResultTitle = "ERROR: Record No Found";
-                serviceResult.Messages.Add(Error.GetErrorMessage(Error.RecordNotFound));
+            var result = ((List<Ent>)this.Repository.
+                          GetAll(x => x.RowId == rowId).Data)
+                .FirstOrDefault();
 
-                return serviceResult;
-            }
             serviceResult.Success = true;
             serviceResult.ResultTitle = Error.GetErrorMessage(Error.CorrectTransaction);
-            serviceResult.ResultObject = MapperHelper.Instance.Map<Ent, Vm>(Search);
             serviceResult.Messages.Add(Error.GetErrorMessage(Error.CorrectTransaction));
+            serviceResult.ResultObject = MapperHelper.Instance.Map<Ent, Vm>(result);
 
             return serviceResult;
         }
@@ -109,15 +94,15 @@ namespace INTEC.Service.Base
         {
             ServiceResult serviceResult = new ServiceResult();
 
-            var ToInsert = MapperHelper.Instance.Map<Vm , Ent>(viewModel);
-            ToInsert.RowId = Guid.NewGuid().ToString();
+            var Entity = MapperHelper.Instance.Map<Vm, Ent>(viewModel);
+            Entity.RowId = Guid.NewGuid().ToString();
 
-            var result = this.Repository.Insert(ToInsert);
-            
-            serviceResult.Success = result.Successfull; ;
+            var result = this.Repository.Insert(Entity);
+
+            serviceResult.Success = result.Successfull;
             serviceResult.ResultTitle = (result.Successfull ? Error.GetErrorMessage(Error.CorrectTransaction) : Error.GetErrorMessage(Error.InternalServerError));
-            serviceResult.ResultObject = MapperHelper.Instance.Map<Vm, Ent>(viewModel);
             serviceResult.Messages.Add(result.Successfull ? "Inserted" : "Failed");
+            serviceResult.ResultObject = MapperHelper.Instance.Map<Ent, Vm>(result.Data);
 
             return serviceResult;
         }
@@ -126,24 +111,26 @@ namespace INTEC.Service.Base
         {
             ServiceResult serviceResult = new ServiceResult();
 
-            var ToUpdate = this.Repository.GetById((int)(viewModel.Id)).Data;
-            ToUpdate.RowId = Guid.NewGuid().ToString();
+            var ToUpdate = this.Repository.GetById((int)viewModel.Id).Data;
+
             if(ToUpdate == null)
             {
-
                 serviceResult.Success = false;
                 serviceResult.ResultTitle = "ERROR: Record No Found";
                 serviceResult.Messages.Add(Error.GetErrorMessage(Error.RecordNotFound));
 
                 return serviceResult;
             }
+
             var Entity = MapperHelper.Instance.Map<Vm, Ent>(viewModel);
+
             var result = this.Repository.Update(Entity);
 
-            serviceResult.Success = result.Successfull; ;
+            serviceResult.Success = result.Successfull;
             serviceResult.ResultTitle = (result.Successfull ? Error.GetErrorMessage(Error.CorrectTransaction) : Error.GetErrorMessage(Error.InternalServerError));
-            serviceResult.ResultObject = MapperHelper.Instance.Map<Vm, Ent>(viewModel);
             serviceResult.Messages.Add(result.Successfull ? "Updated" : "Failed");
+            serviceResult.ResultObject = MapperHelper.
+                Instance.Map<Ent, Vm>(result.Data);
 
             return serviceResult;
         }

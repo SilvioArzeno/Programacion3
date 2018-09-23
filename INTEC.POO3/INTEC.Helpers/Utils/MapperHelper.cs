@@ -13,8 +13,10 @@ namespace INTEC.Helpers.Utils
         {
             Mapper.Initialize(conf =>
             {
-                conf.CreateMap<User, UserViewModel>();
+                conf.CreateMap<User, UserViewModel>().ForMember(i=> i.maria, if. );
                 conf.CreateMap<UserProfile, UserProfileViewModel>();
+
+
             });
         }
 
